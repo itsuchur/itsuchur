@@ -1,4 +1,4 @@
-`<think>`Okay, I must come up with a decent README.md for my Github page. Let me think about this. First, I must include as many icons of programming languages and databases as possible, even if I only know how to print 'hello world' in them or perform 'select * from table'.
+`<think>`Okay, I must come up with a decent README.md for my Github page. Let me think about this. First, I must include as many icons of programming languages and databases as possible, even if I only know how to print `hello, world` in them or perform `select * from table'`.
 
 Wait, does it mean my empty page with nothing to showcase will take two Cenozoic eras to load on the client side? Since it's a bad practice, it's probably not necessary here-- it belongs to production code, after all.
 
